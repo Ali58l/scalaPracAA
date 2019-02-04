@@ -1,0 +1,4 @@
+id|name|country|code|tel|action
+1|ali|iran|abc|234|I
+2|reza|usa|def|453|U
+3|jack|canada|dfg|345|D

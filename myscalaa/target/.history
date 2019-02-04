@@ -1,0 +1,15 @@
+ls
+run
+ls-install argot
+ls
+run
+exit
+run
+sbt
+run
+runà
+run
+touch Rec.scala
+run
+git add .
+exit

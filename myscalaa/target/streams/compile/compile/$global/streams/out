@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/ali/Documents/scalaPractice/scalaPracA/myscalaa/src/main/scala/FileType.scala:5:43: not found: type ListBuffer[0m
+[0m[[0m[31merror[0m] [0m[0m	def readFileBody(fileLines:List[String]):ListBuffer[RecLine][0m
+[0m[[0m[31merror[0m] [0m[0m	                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
